@@ -1,0 +1,2273 @@
+[
+  {
+    "id": "sv1",
+    "name": "นายกรรณภว์ ธนภรรคภวิน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%A7%E0%B9%8C-%E0%B8%98%E0%B8%99%E0%B8%A0%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B8%A0%E0%B8%A7%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "sv2",
+    "name": "พลตรีกลชัย สุวรรณบูรณ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%A5%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C"
+  },
+  {
+    "id": "sv3",
+    "name": "นายกล้านรงค์ จันทิก",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B4%E0%B8%81"
+  },
+  {
+    "id": "sv4",
+    "name": "นายกษิดิศ อาชวคุณ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%A9%E0%B8%B4%E0%B8%94%E0%B8%B4%E0%B8%A8-%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%84%E0%B8%B8%E0%B8%93"
+  },
+  {
+    "id": "sv5",
+    "name": "นางกอบกุล อาภากร ณ อยุธยา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%AD%E0%B8%9A%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%AD%E0%B8%B2%E0%B8%A0%E0%B8%B2%E0%B8%81%E0%B8%A3-%E0%B8%93-%E0%B8%AD%E0%B8%A2%E0%B8%B8%E0%B8%98%E0%B8%A2%E0%B8%B2"
+  },
+  {
+    "id": "sv6",
+    "name": "นางกาญจนารัตน์ ลีวิโรจน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A5%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv7",
+    "name": "นายกำพล เลิศเกียรติดำรงค์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%B3%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C"
+  },
+  {
+    "id": "sv8",
+    "name": "นายกิตติ วะสีนนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4-%E0%B8%A7%E0%B8%B0%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv9",
+    "name": "นายกิตติศักดิ์ รัตนวราหะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 2,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B8%B0"
+  },
+  {
+    "id": "sv10",
+    "name": "นายกูรดิสถ์ จันทร์ศรีชวาลา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%81%E0%B8%B9%E0%B8%A3%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B8%96%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%B2"
+  },
+  {
+    "id": "sv11",
+    "name": "นายเกียว แก้วสุทอ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%AD"
+  },
+  {
+    "id": "sv12",
+    "name": "ดร.ไกรสิทธิ์ ตันติศิรินทร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv13",
+    "name": "นายขวัญชาติ วงศ์ศุภรานันต์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%82%E0%B8%A7%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "sv14",
+    "name": "นายคำนูณ สิทธิสมาน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%84%E0%B8%B3%E0%B8%99%E0%B8%B9%E0%B8%93-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%AA%E0%B8%A1%E0%B8%B2%E0%B8%99"
+  },
+  {
+    "id": "sv15",
+    "name": "นายจเด็จ อินสว่าง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%88-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87"
+  },
+  {
+    "id": "sv16",
+    "name": "นายจรินทร์ จักกะพาก",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C-%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%81"
+  },
+  {
+    "id": "sv17",
+    "name": "พันตำรวจเอกจรุงวิทย์ ภุมมา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%A0%E0%B8%B8%E0%B8%A1%E0%B8%A1%E0%B8%B2"
+  },
+  {
+    "id": "sv18",
+    "name": "พลโทจเรศักณิ์ อานุภาพ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B9%80%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%93%E0%B8%B4%E0%B9%8C-%E0%B8%AD%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A0%E0%B8%B2%E0%B8%9E"
+  },
+  {
+    "id": "sv19",
+    "name": "นายจัตุรงค์ เสริมสุข",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B1%E0%B8%95%E0%B8%B8%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82"
+  },
+  {
+    "id": "sv20",
+    "name": "พลตำรวจโทจิตติ รอดบางยาง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%A2%E0%B8%B2%E0%B8%87"
+  },
+  {
+    "id": "sv21",
+    "name": "นางจินตนา ชัยยวรรณาการ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B8%99%E0%B8%B2-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A2%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3"
+  },
+  {
+    "id": "sv22",
+    "name": "นายจิรชัย มูลทองโร่ย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B9%E0%B8%A5%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B9%88%E0%B8%A2"
+  },
+  {
+    "id": "sv23",
+    "name": "นางจิรดา สงฆ์ประชา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%94%E0%B8%B2-%E0%B8%AA%E0%B8%87%E0%B8%86%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2"
+  },
+  {
+    "id": "sv24",
+    "name": "พลเอกจิรพงศ์ วรรณรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv25",
+    "name": "พลเอกจีระศักดิ์ ชมประสพ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%88%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%8A%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9E"
+  },
+  {
+    "id": "sv26",
+    "name": "นายแพทย์เจตน์ ศิรธรานนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/jetn.sirathranont/posts/pfbid0tES5HgwpvaZqqbe5yR45g3wCnWpF2T3JggjmfZKMCYaQ73v3qrwfgU8WxBSYaVqYl?locale=th_TH",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%98%E0%B8%A3%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv27",
+    "name": "นายเจน นำชัยศิริ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%88%E0%B8%99-%E0%B8%99%E0%B8%B3%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4"
+  },
+  {
+    "id": "sv28",
+    "name": "ดร.ฉวีรัตน์ เกษตรสุนทร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%89%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%97%E0%B8%A3"
+  },
+  {
+    "id": "sv29",
+    "name": "พลเอกฉัตรเฉลิม เฉลิมสุข",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%AA%E0%B8%B8%E0%B8%82"
+  },
+  {
+    "id": "sv30",
+    "name": "พลเอกฉัตรชัย สาริกัลยะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A2%E0%B8%B0"
+  },
+  {
+    "id": "sv31",
+    "name": "นายเฉลา พวงมาลัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B2-%E0%B8%9E%E0%B8%A7%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv32",
+    "name": "พลอากาศตรี นายแพทย์เฉลิมชัย เครืองาม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%B2%E0%B8%A1"
+  },
+  {
+    "id": "sv33",
+    "name": "ผู้ช่วยศาสตราจารย์ นายแพทย์เฉลิมชัย บุญยะลีพรรณ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A2%E0%B8%B0%E0%B8%A5%E0%B8%B5%E0%B8%9E%E0%B8%A3%E0%B8%A3%E0%B8%93"
+  },
+  {
+    "id": "sv34",
+    "name": "นายเฉลิมชัย เฟื่องคอน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 2,
+    "reference": "https://www.khaosod.co.th/politics/news_7751634",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%9F%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%AD%E0%B8%99"
+  },
+  {
+    "id": "sv35",
+    "name": "พลเอกเฉลิมพล ศรีสวัสดิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 1,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%9E%E0%B8%A5-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv36",
+    "name": "นายเฉลียว เกาะแก้ว",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%B0%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7"
+  },
+  {
+    "id": "sv37",
+    "name": "พลเอกชยุติ สุวรรณมาศ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%A2%E0%B8%B8%E0%B8%95%E0%B8%B4-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A1%E0%B8%B2%E0%B8%A8"
+  },
+  {
+    "id": "sv38",
+    "name": "นายชลิต แก้วจินดา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2"
+  },
+  {
+    "id": "sv39",
+    "name": "พลตำรวจเอกชัชวาลย์ สุขสมจิตร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%B1%E0%B8%8A%E0%B8%A7%E0%B8%B2%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%AA%E0%B8%A1%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv40",
+    "name": "พลเรือเอกชัยวัฒน์ เอี่ยมสมุทร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A1%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3"
+  },
+  {
+    "id": "sv41",
+    "name": "ดร.ชาญวิทย์ ผลชีวิน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B9%8C-%E0%B8%9C%E0%B8%A5%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "sv42",
+    "name": "พลเอกชาตอุดม ติตถะสิริ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B8%95%E0%B8%B4%E0%B8%95%E0%B8%96%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4"
+  },
+  {
+    "id": "sv43",
+    "name": "พลเอกชูศักดิ์ เมฆสุวรรณ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8A%E0%B8%B9%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B8%86%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B9%8C"
+  },
+  {
+    "id": "sv44",
+    "name": "พลเอกเชวงศักดิ์ ทองสลวย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%8A%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A5%E0%B8%A7%E0%B8%A2"
+  },
+  {
+    "id": "sv45",
+    "name": "พล.ร.อ.เชิงชาย ชมเชิงแพทย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 1,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%8A%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv46",
+    "name": "ว่าที่ร้อยตรีเชิดศักดิ์ จำปาเทศ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%88%E0%B8%B3%E0%B8%9B%E0%B8%B2%E0%B9%80%E0%B8%97%E0%B8%A8"
+  },
+  {
+    "id": "sv47",
+    "name": "นายเชิดศักดิ์ สันติวรวุฒิ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4"
+  },
+  {
+    "id": "sv48",
+    "name": "นายซากีย์ พิทักษ์คุมพล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.thereporters.co/tw-politics/1705230859",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%8B%E0%B8%B2%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%84%E0%B8%B8%E0%B8%A1%E0%B8%9E%E0%B8%A5"
+  },
+  {
+    "id": "sv49",
+    "name": "พลเรือเอกฐนิธ กิตติอำพน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%90%E0%B8%99%E0%B8%B4%E0%B8%98-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%99"
+  },
+  {
+    "id": "sv50",
+    "name": "พลเอกณรงค์พันธ์ จิตต์แก้วแท้",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 1,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7%E0%B9%81%E0%B8%97%E0%B9%89"
+  },
+  {
+    "id": "sv51",
+    "name": "พลเรือเอกณรงค์ พิพัฒนาศัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%9E%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A8%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv52",
+    "name": "นายณรงค์ รัตนานุกูล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%81%E0%B8%B9%E0%B8%A5"
+  },
+  {
+    "id": "sv53",
+    "name": "นายณรงค์ สหเมธาพัฒน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%AB%E0%B9%80%E0%B8%A1%E0%B8%98%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv54",
+    "name": "นายณรงค์ อ่อนสอาด",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%AD%E0%B8%B2%E0%B8%94"
+  },
+  {
+    "id": "sv55",
+    "name": "พลเอกดนัย มีชูเวท",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%A1%E0%B8%B5%E0%B8%8A%E0%B8%B9%E0%B9%80%E0%B8%A7%E0%B8%97"
+  },
+  {
+    "id": "sv56",
+    "name": "นางดวงพร รอดพยาธิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%A7%E0%B8%87%E0%B8%9E%E0%B8%A3-%E0%B8%A3%E0%B8%AD%E0%B8%94%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv57",
+    "name": "ดร.ดาวน้อย สุทธินิภาพันธ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%99%E0%B8%B4%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C"
+  },
+  {
+    "id": "sv58",
+    "name": "พลตำรวจเอกดำรงศักดิ์ กิตติประภัสร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%81%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%B4%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B1%E0%B8%AA%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv59",
+    "name": "ดร.ดิเรกฤทธิ์ เจนครองธรรม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://prachatai.com/journal/2023/05/104181",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%B4%E0%B9%80%E0%B8%A3%E0%B8%81%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%88%E0%B8%99%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1"
+  },
+  {
+    "id": "sv60",
+    "name": "นายดุสิต เขมะศักดิ์ชัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%94%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%82%E0%B8%A1%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv61",
+    "name": "พลตำรวจเอกเดชณรงค์ สุทธิชาญบัญชา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B2"
+  },
+  {
+    "id": "sv62",
+    "name": "พลตำรวจโทตรีทศ รณฤทธิวิชัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%A8-%E0%B8%A3%E0%B8%93%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv63",
+    "name": "พลอากาศเอกตรีทศ สนแจ้ง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%A8-%E0%B8%AA%E0%B8%99%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87"
+  },
+  {
+    "id": "sv64",
+    "name": "ดร.ตวง อันทะไชย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://ch3plus.com/news/political/morning/348681",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%95%E0%B8%A7%E0%B8%87-%E0%B8%AD%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B0%E0%B9%84%E0%B8%8A%E0%B8%A2"
+  },
+  {
+    "id": "sv65",
+    "name": "พลเอกไตรโรจน์ ครุธเวโช",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%84%E0%B8%A3%E0%B8%B8%E0%B8%98%E0%B9%80%E0%B8%A7%E0%B9%82%E0%B8%8A"
+  },
+  {
+    "id": "sv66",
+    "name": "นายถนัด มานะพันธ์ุนิยม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%96%E0%B8%99%E0%B8%B1%E0%B8%94-%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%B8%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1"
+  },
+  {
+    "id": "sv67",
+    "name": "นายถวิล เปลี่ยนศรี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%96%E0%B8%A7%E0%B8%B4%E0%B8%A5-%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%A8%E0%B8%A3%E0%B8%B5"
+  },
+  {
+    "id": "sv68",
+    "name": "นายถาวร เทพวิมลเพชรกุล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3-%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A7%E0%B8%B4%E0%B8%A1%E0%B8%A5%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3%E0%B8%81%E0%B8%B8%E0%B8%A5"
+  },
+  {
+    "id": "sv69",
+    "name": "พลอากาศเอกถาวร มณีพฤกษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3-%E0%B8%A1%E0%B8%93%E0%B8%B5%E0%B8%9E%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv70",
+    "name": "นายทรงเดช เสมอคำ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": -2,
+    "reference": "https://www.khaosod.co.th/politics/news_7751955",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B9%80%E0%B8%AA%E0%B8%A1%E0%B8%AD%E0%B8%84%E0%B8%B3"
+  },
+  {
+    "id": "sv71",
+    "name": "พลเอกทวีป เนตรนิยม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%9B-%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%99%E0%B8%B4%E0%B8%A2%E0%B8%A1"
+  },
+  {
+    "id": "sv72",
+    "name": "นายแพทย์ทวีวงษ์ จุลกมนตรี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%81%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5"
+  },
+  {
+    "id": "sv73",
+    "name": "นางทัศนา ยุวานนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.koratdaily.com/blog.php?id=9187",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%97%E0%B8%B1%E0%B8%A8%E0%B8%99%E0%B8%B2-%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv74",
+    "name": "ร้อยเอก ดร.ทินพันธุ์ นาคะตะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%97%E0%B8%B4%E0%B8%99%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%B0%E0%B8%95%E0%B8%B0"
+  },
+  {
+    "id": "sv75",
+    "name": "พลเอกเทพพงศ์ ทิพยจันทร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv76",
+    "name": "พลเอกธงชัย สาระสุข",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%87%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B8%E0%B8%82"
+  },
+  {
+    "id": "sv77",
+    "name": "พลเอก ดร.ธนะศักดิ์ ปฏิมาประกร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%99%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%A3"
+  },
+  {
+    "id": "sv78",
+    "name": "พลเอกธวัชชัย สมุทรสาคร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%97%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%84%E0%B8%A3"
+  },
+  {
+    "id": "sv79",
+    "name": "นายธานี สุโชดายน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B9%82%E0%B8%8A%E0%B8%94%E0%B8%B2%E0%B8%A2%E0%B8%99"
+  },
+  {
+    "id": "sv80",
+    "name": "นายธานี อ่อนละเอียด",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%B5-%E0%B8%AD%E0%B9%88%E0%B8%AD%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94"
+  },
+  {
+    "id": "sv81",
+    "name": "พลเอกธีรเดช มีเพียร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%98%E0%B8%B5%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%A1%E0%B8%B5%E0%B9%80%E0%B8%9E%E0%B8%B5%E0%B8%A2%E0%B8%A3"
+  },
+  {
+    "id": "sv82",
+    "name": "พลเรือเอกนพดล โชคระดา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%9E%E0%B8%94%E0%B8%A5-%E0%B9%82%E0%B8%8A%E0%B8%84%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B2"
+  },
+  {
+    "id": "sv83",
+    "name": "พลเอกนพดล อินทปัญญา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%9E%E0%B8%94%E0%B8%A5-%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2"
+  },
+  {
+    "id": "sv84",
+    "name": "พลเอกนาวิน ดำริกาญจน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%99-%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv85",
+    "name": "นายนิพนธ์ นาคสมภพ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%B4%E0%B8%9E%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%AA%E0%B8%A1%E0%B8%A0%E0%B8%9E"
+  },
+  {
+    "id": "sv86",
+    "name": "พลเอกนิวัตร มีนะโยธิน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%B4%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%A3-%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B0%E0%B9%82%E0%B8%A2%E0%B8%98%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "sv87",
+    "name": "ดร.นิสดารก์ เวชยานนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%B4%E0%B8%AA%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%A2%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv88",
+    "name": "นายนิอาแซ ซีอุเซ็ง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%99%E0%B8%B4%E0%B8%AD%E0%B8%B2%E0%B9%81%E0%B8%8B-%E0%B8%8B%E0%B8%B5%E0%B8%AD%E0%B8%B8%E0%B9%80%E0%B8%8B%E0%B9%87%E0%B8%87"
+  },
+  {
+    "id": "sv89",
+    "name": "นายเนาวรัตน์ พงษ์ไพบูลย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv90",
+    "name": "นายบรรชา พงศ์อายุกูล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B8%8A%E0%B8%B2-%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%81%E0%B8%B9%E0%B8%A5"
+  },
+  {
+    "id": "sv91",
+    "name": "พลเอกบุญธรรม โอริส",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1-%E0%B9%82%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%AA"
+  },
+  {
+    "id": "sv92",
+    "name": "นายบุญมี สุระโคตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%A1%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%84%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv93",
+    "name": "ดร.บุญส่ง ไข่เกษ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B9%88%E0%B8%87-%E0%B9%84%E0%B8%82%E0%B9%88%E0%B9%80%E0%B8%81%E0%B8%A9"
+  },
+  {
+    "id": "sv94",
+    "name": "พลเอก ดร.บุญสร้าง เนียมประดิษฐ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-%E0%B9%80%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C"
+  },
+  {
+    "id": "sv95",
+    "name": "นางเบญจรัตน์ จริยธาราสิทธิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%9A%E0%B8%8D%E0%B8%88%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%98%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv96",
+    "name": "หม่อมหลวงปนัดดา ดิศกุล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%99%E0%B8%B1%E0%B8%94%E0%B8%94%E0%B8%B2-%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%81%E0%B8%B8%E0%B8%A5"
+  },
+  {
+    "id": "sv97",
+    "name": "พลอากาศเอก ดร.ประจิน จั่นตอง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B4%E0%B8%99-%E0%B8%88%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv98",
+    "name": "นายประดิษฐ์ เหลืองอร่าม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B8%AD%E0%B8%A3%E0%B9%88%E0%B8%B2%E0%B8%A1"
+  },
+  {
+    "id": "sv99",
+    "name": "นายประพันธ์ คูณมี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%84%E0%B8%B9%E0%B8%93%E0%B8%A1%E0%B8%B5"
+  },
+  {
+    "id": "sv100",
+    "name": "นางประภาศรี สุฉันทบุตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 3,
+    "reference": "https://www.facebook.com/psuchantabutr/posts/pfbid02ZTpo9oZyq1yUoqhBBqwtQuiZ26ZxQ1mbZB1aqwbZCaYWXDyC42bgB4VszpM9Enpal",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%A8%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv101",
+    "name": "นายประมนต์ สุธีวงศ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C"
+  },
+  {
+    "id": "sv102",
+    "name": "นายประมาณ สว่างญาติ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.thansettakij.com/business/trade-agriculture/565352",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A1%E0%B8%B2%E0%B8%93-%E0%B8%AA%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%8D%E0%B8%B2%E0%B8%95%E0%B8%B4"
+  },
+  {
+    "id": "sv103",
+    "name": "ร้อยเอกประยุทธ เสาวคนธ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B9%80%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%84%E0%B8%99%E0%B8%98%E0%B9%8C"
+  },
+  {
+    "id": "sv104",
+    "name": "นางประยูร เหล่าสายเชื้อ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.matichon.co.th/politics/news_3991014",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A2%E0%B8%B9%E0%B8%A3-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%89%E0%B8%AD"
+  },
+  {
+    "id": "sv105",
+    "name": "พลเอก ดร.ประสาท สุขเกษตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B2%E0%B8%97-%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B9%80%E0%B8%81%E0%B8%A9%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv106",
+    "name": "นายประสิทธิ์ ปทุมารักษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%97%E0%B8%B8%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv107",
+    "name": "รองศาสตราจารย์ ดร.ประเสริฐ ปิ่นปฐมรัฐ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%90-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%90%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%90"
+  },
+  {
+    "id": "sv108",
+    "name": "พลตำรวจตรีปรัชญ์ชัย ใจชาญสุขกิจ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%8D%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%83%E0%B8%88%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%81%E0%B8%B4%E0%B8%88"
+  },
+  {
+    "id": "sv109",
+    "name": "พลเอกปรีชา จันทร์โอชา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2-%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%AD%E0%B8%8A%E0%B8%B2"
+  },
+  {
+    "id": "sv110",
+    "name": "นายปรีชา บัววิรัตน์เลิศ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%A3%E0%B8%B5%E0%B8%8A%E0%B8%B2-%E0%B8%9A%E0%B8%B1%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8"
+  },
+  {
+    "id": "sv111",
+    "name": "นายปัญญา งานเลิศ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8"
+  },
+  {
+    "id": "sv112",
+    "name": "พลเอกปัฐมพงศ์ ประถมภัฏ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%96%E0%B8%A1%E0%B8%A0%E0%B8%B1%E0%B8%8F"
+  },
+  {
+    "id": "sv113",
+    "name": "นายปานเทพ กล้าณรงค์ราญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%9E-%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%8D"
+  },
+  {
+    "id": "sv114",
+    "name": "ดร.ปิยฉัฏฐ์ วันเฉลิม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%89%E0%B8%B1%E0%B8%8F%E0%B8%90%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%89%E0%B8%A5%E0%B8%B4%E0%B8%A1"
+  },
+  {
+    "id": "sv115",
+    "name": "นายปิยพันธุ์ นิมมานเหมินท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9B%E0%B8%B4%E0%B8%A2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%AB%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv116",
+    "name": "พลเอกโปฎก บุนนาค",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%82%E0%B8%9B%E0%B8%8E%E0%B8%81-%E0%B8%9A%E0%B8%B8%E0%B8%99%E0%B8%99%E0%B8%B2%E0%B8%84"
+  },
+  {
+    "id": "sv117",
+    "name": "นางผาณิต นิติทัณฑ์ประภาศ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9C%E0%B8%B2%E0%B8%93%E0%B8%B4%E0%B8%95-%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A0%E0%B8%B2%E0%B8%A8"
+  },
+  {
+    "id": "sv118",
+    "name": "แพทย์หญิง คุณหญิงพรทิพย์ โรจนสุนันท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%A3%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv119",
+    "name": "นายพรเพชร วิชิตชลชัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%A3%E0%B9%80%E0%B8%9E%E0%B8%8A%E0%B8%A3-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95%E0%B8%8A%E0%B8%A5%E0%B8%8A%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv120",
+    "name": "นายแพทย์พลเดช ปิ่นประทีป",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.matichon.co.th/politics/news_3987332",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%A5%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%9B%E0%B8%B4%E0%B9%88%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B8%9B"
+  },
+  {
+    "id": "sv121",
+    "name": "พลเอกพหล สง่าเนตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%AB%E0%B8%A5-%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv122",
+    "name": "พลเรือเอกพะจุณณ์ ตามประทีป",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B0%E0%B8%88%E0%B8%B8%E0%B8%93%E0%B8%93%E0%B9%8C-%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B5%E0%B8%9B"
+  },
+  {
+    "id": "sv123",
+    "name": "พลเรือเอกพัลลภ ตมิศานนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%A0-%E0%B8%95%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv124",
+    "name": "นางพิกุลแก้ว ไกรฤกษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%81%E0%B8%B8%E0%B8%A5%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7-%E0%B9%84%E0%B8%81%E0%B8%A3%E0%B8%A4%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv125",
+    "name": "นายพิทักษ์ ไชยเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C-%E0%B9%84%E0%B8%8A%E0%B8%A2%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv126",
+    "name": "พลเอกพิศณุ พุทธวงศ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%93%E0%B8%B8-%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C"
+  },
+  {
+    "id": "sv127",
+    "name": "นายพิศาล มาณวพัฒน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://prachatai.com/journal/2023/04/103707",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%93%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv128",
+    "name": "พลตำรวจโทพิสัณห์ จุลดิลก",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%93%E0%B8%AB%E0%B9%8C-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%81"
+  },
+  {
+    "id": "sv129",
+    "name": "พลเอกพิสิทธิ์ สิทธิสาร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B4%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A3"
+  },
+  {
+    "id": "sv130",
+    "name": "นายพีระศักดิ์ พอจิต",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/sorrayuth9115/posts/pfbid0d19BAWeeGiavFQj8qKitSPX5vYBV7WkFMXACxn3sh2TtYbX7mUWg6uVaztSG37Q2l",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%9E%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9E%E0%B8%AD%E0%B8%88%E0%B8%B4%E0%B8%95"
+  },
+  {
+    "id": "sv131",
+    "name": "นางเพ็ญพักตร์ ศรีทอง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%8D%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%95%E0%B8%A3%E0%B9%8C-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv132",
+    "name": "พลเอกไพชยนต์ ค้าทันเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%9E%E0%B8%8A%E0%B8%A2%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv133",
+    "name": "นายไพฑูรย์ หลิมวัฒนา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%9E%E0%B8%91%E0%B8%B9%E0%B8%A3%E0%B8%A2%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%B4%E0%B8%A1%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2"
+  },
+  {
+    "id": "sv134",
+    "name": "นายไพโรจน์ พ่วงทอง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%9E%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%97%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv135",
+    "name": "พลเอกไพโรจน์ พานิชสมัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%84%E0%B8%9E%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv136",
+    "name": "นางสาวภัทรา วรามิตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/pattrawaramit/posts/pfbid08FHS6u4LXqD71pmmxccydZi2J6teW78K9jobWRFi6kpThyt9rcpnum82B8Eio6Gvl",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A0%E0%B8%B1%E0%B8%97%E0%B8%A3%E0%B8%B2-%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv137",
+    "name": "นายภาณุ อุทัยรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A0%E0%B8%B2%E0%B8%93%E0%B8%B8-%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv138",
+    "name": "นายมณเฑียร บุญตัน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 3,
+    "reference": "https://www.matichon.co.th/politics/news_3987340",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A1%E0%B8%93%E0%B9%80%E0%B8%91%E0%B8%B5%E0%B8%A2%E0%B8%A3-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%95%E0%B8%B1%E0%B8%99"
+  },
+  {
+    "id": "sv139",
+    "name": "นายมหรรณพ เดชวิทักษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A1%E0%B8%AB%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%9E-%E0%B9%80%E0%B8%94%E0%B8%8A%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv140",
+    "name": "พลเอกมารุต ปัชโชตะสิงห์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A1%E0%B8%B2%E0%B8%A3%E0%B8%B8%E0%B8%95-%E0%B8%9B%E0%B8%B1%E0%B8%8A%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C"
+  },
+  {
+    "id": "sv141",
+    "name": "พันตำรวจตรี ดร.ยงยุทธ สาระสมบัติ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A2%E0%B8%87%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4"
+  },
+  {
+    "id": "sv142",
+    "name": "พลเอก ดร.ยอดยุทธ บุญญาธิการ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3"
+  },
+  {
+    "id": "sv143",
+    "name": "พันตำรวจเอกยุทธกร วงเวียน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%81%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%B5%E0%B8%A2%E0%B8%99"
+  },
+  {
+    "id": "sv144",
+    "name": "นายยุทธนา ทัพเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A2%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%99%E0%B8%B2-%E0%B8%97%E0%B8%B1%E0%B8%9E%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv145",
+    "name": "นายรณวริทธิ์ ปริยฉัตรตระกูล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.thansettakij.com/business/trade-agriculture/565352",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A3%E0%B8%93%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5"
+  },
+  {
+    "id": "sv146",
+    "name": "นางสาวเรณู ตังคจิวางกูร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%A3%E0%B8%93%E0%B8%B9-%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%88%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B9%E0%B8%A3"
+  },
+  {
+    "id": "sv147",
+    "name": "นายลักษณ์ วจนานวัช",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%88%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%8A"
+  },
+  {
+    "id": "sv148",
+    "name": "พลเอกเลิศรัตน์ รัตนวานิช",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A7%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A"
+  },
+  {
+    "id": "sv149",
+    "name": "พลเอกเลิศฤทธิ์ เวชสวรรค์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%A4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%AA%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C"
+  },
+  {
+    "id": "sv150",
+    "name": "ว่าที่ร้อยตรีวงศ์สยาม เพ็งพานิชภักดี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%A1-%E0%B9%80%E0%B8%9E%E0%B9%87%E0%B8%87%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5"
+  },
+  {
+    "id": "sv151",
+    "name": "พลเอก ดร.วรพงษ์ สง่าเนตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%87%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%99%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv152",
+    "name": "นางวรารัตน์ อติแพทย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%AD%E0%B8%95%E0%B8%B4%E0%B9%81%E0%B8%9E%E0%B8%97%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv153",
+    "name": "พลเอกวราห์ บุญญะสิทธิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%AB%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8D%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv154",
+    "name": "พลเอกวลิต โรจนภักดี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%A5%E0%B8%B4%E0%B8%95-%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5"
+  },
+  {
+    "id": "sv155",
+    "name": "พลเอกวสันต์ สุริยมงคล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%AA%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5"
+  },
+  {
+    "id": "sv156",
+    "name": "พลเอกวัฒนา สรรพานิช",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2-%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%8A"
+  },
+  {
+    "id": "sv157",
+    "name": "นายวันชัย สอนศิริ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/permalink.php?story_fbid=pfbid09J1Hp3yEPHFj7EaJG44P6xBC2goL5PQokneCbfgoggX8jDZxgwsFCjwAvBaLEHbEl&id=100064799223736",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4"
+  },
+  {
+    "id": "sv158",
+    "name": "นายวัลลภ ตังคณานุรักษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.thaipbs.or.th/news/content/327846",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%A0-%E0%B8%95%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%93%E0%B8%B2%E0%B8%99%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv159",
+    "name": "นายวิชัย ทิตตภักดี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5"
+  },
+  {
+    "id": "sv160",
+    "name": "พลเอก ดร.วิชิต ยาทิพย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B4%E0%B8%95-%E0%B8%A2%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%9E%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv161",
+    "name": "นายวิทยา ผิวผ่อง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2-%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9C%E0%B9%88%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv162",
+    "name": "พลเอกวินัย สร้างสุขดี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%94%E0%B8%B5"
+  },
+  {
+    "id": "sv163",
+    "name": "พลตำรวจโทวิบูลย์ บางท่าไม้",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%A1%E0%B9%89"
+  },
+  {
+    "id": "sv164",
+    "name": "นางสาววิบูลย์ลักษณ์ ร่วมรักษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv165",
+    "name": "นายวิรัตน์ เกสสมบูรณ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B9%80%E0%B8%81%E0%B8%AA%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C"
+  },
+  {
+    "id": "sv166",
+    "name": "นางสาววิไลลักษณ์ อรินทมะพงษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B9%84%E0%B8%A5%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C-%E0%B8%AD%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A1%E0%B8%B0%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv167",
+    "name": "นายวิวรรธน์ แสงสุริยะฉัตร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B4%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%89%E0%B8%B1%E0%B8%95%E0%B8%A3"
+  },
+  {
+    "id": "sv169",
+    "name": "นายวีระศักดิ์ โควสุรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%84%E0%B8%A7%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv170",
+    "name": "นายวีระศักดิ์ ฟูตระกูล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%9F%E0%B8%B9%E0%B8%95%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B9%E0%B8%A5"
+  },
+  {
+    "id": "sv171",
+    "name": "นายวีระศักดิ์ ภูครองหิน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/phusalai/posts/pfbid02wC7UmEgt6DfA491wtwdBbdbj6iJ8LNXM4XDrgo8JzVPZUiGv1SjGoCk5dUBHLJ6Ql",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A0%E0%B8%B9%E0%B8%84%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%B4%E0%B8%99"
+  },
+  {
+    "id": "sv172",
+    "name": "พลเอกวีรัณ ฉันทศาสตร์โกศล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%93-%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%81%E0%B8%A8%E0%B8%A5"
+  },
+  {
+    "id": "sv173",
+    "name": "นายวุฒิพันธุ์ วิชัยรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 3,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C-%E0%B8%A7%E0%B8%B4%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv174",
+    "name": "นายศรีศักดิ์ วัฒนพรมงคล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%9E%E0%B8%A3%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5"
+  },
+  {
+    "id": "sv175",
+    "name": "นายศักดิ์ชัย ธนบุญชัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%98%E0%B8%99%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv176",
+    "name": "ดร.ศักดิ์ไทย สุรกิจบวร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%9A%E0%B8%A7%E0%B8%A3"
+  },
+  {
+    "id": "sv177",
+    "name": "พลเรือเอกศักดิ์สิทธิ์ เชิดบุญเมือง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B9%80%E0%B8%8A%E0%B8%B4%E0%B8%94%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv178",
+    "name": "พลตำรวจโทศานิตย์ มหถาวร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%A1%E0%B8%AB%E0%B8%96%E0%B8%B2%E0%B8%A7%E0%B8%A3"
+  },
+  {
+    "id": "sv179",
+    "name": "ดร.ศิรินา ปวโรฬารวิทยา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%99%E0%B8%B2-%E0%B8%9B%E0%B8%A7%E0%B9%82%E0%B8%A3%E0%B8%AC%E0%B8%B2%E0%B8%A3%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2"
+  },
+  {
+    "id": "sv180",
+    "name": "พลเรือเอกศิษฐวัชร วงษ์สุวรรณ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B8%A7%E0%B8%B1%E0%B8%8A%E0%B8%A3-%E0%B8%A7%E0%B8%87%E0%B8%A9%E0%B9%8C%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93"
+  },
+  {
+    "id": "sv181",
+    "name": "นายศุภชัย สมเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv182",
+    "name": "พลเอกศุภรัตน์ พัฒนาวิสุทธิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%A8%E0%B8%B8%E0%B8%A0%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv183",
+    "name": "พลเอกสกนธ์ สัจจานิตย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%81%E0%B8%99%E0%B8%98%E0%B9%8C-%E0%B8%AA%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B2%E0%B8%99%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv184",
+    "name": "นายแพทย์ หม่อมหลวงสกุล มาลากุล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%81%E0%B8%B8%E0%B8%A5-%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%B8%E0%B8%A5"
+  },
+  {
+    "id": "sv185",
+    "name": "ดร.สถิตย์ ลิ่มพงศ์พันธุ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 3,
+    "reference": "https://thestandard.co/sathit-limpongpan-senate-approved/",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C-%E0%B8%A5%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C"
+  },
+  {
+    "id": "sv186",
+    "name": "พลเรือโทสนธยา น้อยฉายา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%A2%E0%B8%B2-%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%89%E0%B8%B2%E0%B8%A2%E0%B8%B2"
+  },
+  {
+    "id": "sv187",
+    "name": "พลเอกสนธยา ศรีเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%99%E0%B8%98%E0%B8%A2%E0%B8%B2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv188",
+    "name": "พลเอกสนั่น มะเริงสิทธิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%99-%E0%B8%A1%E0%B8%B0%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv189",
+    "name": "พลเอกสนิธชนก สังขจันทร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 1,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%98%E0%B8%8A%E0%B8%99%E0%B8%81-%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%82%E0%B8%88%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv190",
+    "name": "ดร.สม จาตุศรีพิทักษ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1-%E0%B8%88%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%9E%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C"
+  },
+  {
+    "id": "sv191",
+    "name": "พลเอกสมเจตน์ บุญถนอม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%88%E0%B8%95%E0%B8%99%E0%B9%8C-%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B8%96%E0%B8%99%E0%B8%AD%E0%B8%A1"
+  },
+  {
+    "id": "sv192",
+    "name": "นายสมชาย ชาญณรงค์กุล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%8A%E0%B8%B2%E0%B8%8D%E0%B8%93%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%81%E0%B8%B8%E0%B8%A5"
+  },
+  {
+    "id": "sv193",
+    "name": "นายสมชาย เสียงหลาย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2"
+  },
+  {
+    "id": "sv194",
+    "name": "นายสมชาย แสวงการ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 2,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B9%81%E0%B8%AA%E0%B8%A7%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3"
+  },
+  {
+    "id": "sv195",
+    "name": "ดร.สมชาย หาญหิรัญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%A2-%E0%B8%AB%E0%B8%B2%E0%B8%8D%E0%B8%AB%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%8D"
+  },
+  {
+    "id": "sv196",
+    "name": "นายสมเดช นิลพันธุ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C"
+  },
+  {
+    "id": "sv197",
+    "name": "พลตำรวจโทสมบัติ มิลินทจินดา",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%B4-%E0%B8%A1%E0%B8%B4%E0%B8%A5%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2"
+  },
+  {
+    "id": "sv198",
+    "name": "นายสมบูรณ์ งามลักษณ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%9A%E0%B8%B9%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%87%E0%B8%B2%E0%B8%A1%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B9%8C"
+  },
+  {
+    "id": "sv199",
+    "name": "นายสมพล เกียรติไพบูลย์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%A5-%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B9%84%E0%B8%9E%E0%B8%9A%E0%B8%B9%E0%B8%A5%E0%B8%A2%E0%B9%8C"
+  },
+  {
+    "id": "sv200",
+    "name": "นายสมศักดิ์ โชติรัตนะศิริ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B9%82%E0%B8%8A%E0%B8%95%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%B0%E0%B8%A8%E0%B8%B4%E0%B8%A3%E0%B8%B4"
+  },
+  {
+    "id": "sv201",
+    "name": "พลเอกสมศักดิ์ นิลบรรเจิดกุล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B8%9A%E0%B8%A3%E0%B8%A3%E0%B9%80%E0%B8%88%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B8%E0%B8%A5"
+  },
+  {
+    "id": "sv202",
+    "name": "พลตำรวจโทสมหมาย กองวิสัยสุข",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2-%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B8%AA%E0%B8%B1%E0%B8%A2%E0%B8%AA%E0%B8%B8%E0%B8%82"
+  },
+  {
+    "id": "sv203",
+    "name": "พลเอกสมหมาย เกาฏีระ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A1%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2-%E0%B9%80%E0%B8%81%E0%B8%B2%E0%B8%8F%E0%B8%B5%E0%B8%A3%E0%B8%B0"
+  },
+  {
+    "id": "sv204",
+    "name": "พลเอกสราวุฒิ ชลออยู่",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B8%92%E0%B8%B4-%E0%B8%8A%E0%B8%A5%E0%B8%AD%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88"
+  },
+  {
+    "id": "sv205",
+    "name": "นายสวัสดิ์ สมัครพงศ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%84%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A8%E0%B9%8C"
+  },
+  {
+    "id": "sv206",
+    "name": "พลเอกสสิน ทองภักดี",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%AA%E0%B8%B4%E0%B8%99-%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%A0%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B5"
+  },
+  {
+    "id": "sv207",
+    "name": "ดร.สังศิต พิริยะรังสรรค์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%A8%E0%B8%B4%E0%B8%95-%E0%B8%9E%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B8%A3%E0%B8%84%E0%B9%8C"
+  },
+  {
+    "id": "sv208",
+    "name": "นายสัญชัย จุลมนต์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%88%E0%B8%B8%E0%B8%A5%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "sv209",
+    "name": "นายสาธิต เหล่าสุวรรณ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%95-%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93"
+  },
+  {
+    "id": "sv210",
+    "name": "นายสำราญ ครรชิต",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B3%E0%B8%A3%E0%B8%B2%E0%B8%8D-%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%8A%E0%B8%B4%E0%B8%95"
+  },
+  {
+    "id": "sv211",
+    "name": "พลเอกสำเริง ศิวาดารงค์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B8%87-%E0%B8%A8%E0%B8%B4%E0%B8%A7%E0%B8%B2%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%87%E0%B8%84%E0%B9%8C"
+  },
+  {
+    "id": "sv212",
+    "name": "พลเอกสิงห์ศึก สิงห์ไพร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A8%E0%B8%B6%E0%B8%81-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B9%84%E0%B8%9E%E0%B8%A3"
+  },
+  {
+    "id": "sv213",
+    "name": "พลอากาศเอกสุจินต์ แช่มช้อย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%95%E0%B9%8C-%E0%B9%81%E0%B8%8A%E0%B9%88%E0%B8%A1%E0%B8%8A%E0%B9%89%E0%B8%AD%E0%B8%A2"
+  },
+  {
+    "id": "sv214",
+    "name": "นายสุชัย บุตรสาระ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%9A%E0%B8%B8%E0%B8%95%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%B0"
+  },
+  {
+    "id": "sv215",
+    "name": "นายสุธี มากบุญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%98%E0%B8%B5-%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%9A%E0%B8%B8%E0%B8%8D"
+  },
+  {
+    "id": "sv216",
+    "name": "นางสุนี จึงวิโรจน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%99%E0%B8%B5-%E0%B8%88%E0%B8%B6%E0%B8%87%E0%B8%A7%E0%B8%B4%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv218",
+    "name": "นายสุรชัย เลี้ยงบุญเลิศชัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%9A%E0%B8%B8%E0%B8%8D%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%8A%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv219",
+    "name": "พลเอกสุรเชษฐ์ ชัยวงศ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%8A%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%8A%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C"
+  },
+  {
+    "id": "sv220",
+    "name": "ดร.สุรเดช จิรัฐิติเจริญ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%8A-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%B4%E0%B8%95%E0%B8%B4%E0%B9%80%E0%B8%88%E0%B8%A3%E0%B8%B4%E0%B8%8D"
+  },
+  {
+    "id": "sv221",
+    "name": "พลเอกสุรพงษ์ สุวรรณอัตถ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%9E%E0%B8%87%E0%B8%A9%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B9%8C"
+  },
+  {
+    "id": "sv222",
+    "name": "พลเอกสุรศักดิ์ กาญจนรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv223",
+    "name": "นายสุรสิทธิ์ ตรีทอง",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A3%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C-%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87"
+  },
+  {
+    "id": "sv224",
+    "name": "นายสุวพันธ์ุ ตันยุวรรธนะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C%E0%B8%B8-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%98%E0%B8%99%E0%B8%B0"
+  },
+  {
+    "id": "sv225",
+    "name": "นายสุวรรณ เลิศปัญญาโรจน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93-%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%A8%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%88%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv226",
+    "name": "นางสุวรรณี สิริเวชชะพันธ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%B5-%E0%B8%AA%E0%B8%B4%E0%B8%A3%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%8A%E0%B8%B0%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B9%8C"
+  },
+  {
+    "id": "sv227",
+    "name": "นายสุวัฒน์ จิราพันธุ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B9%8C-%E0%B8%88%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C"
+  },
+  {
+    "id": "sv229",
+    "name": "นายเสรี สุวรรณภานนท์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 2,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B5-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A0%E0%B8%B2%E0%B8%99%E0%B8%99%E0%B8%97%E0%B9%8C"
+  },
+  {
+    "id": "sv230",
+    "name": "พลเอกอกนิษฐ์ หมื่นสวัสดิ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%81%E0%B8%99%E0%B8%B4%E0%B8%A9%E0%B8%90%E0%B9%8C-%E0%B8%AB%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B4%E0%B9%8C"
+  },
+  {
+    "id": "sv231",
+    "name": "พลอากาศเอกอดิศักดิ์ กลั่นเสนาะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%94%E0%B8%B4%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%80%E0%B8%AA%E0%B8%99%E0%B8%B2%E0%B8%B0"
+  },
+  {
+    "id": "sv232",
+    "name": "พลตำรวจเอกอดุลย์ แสงสิงแก้ว",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%A2%E0%B9%8C-%E0%B9%81%E0%B8%AA%E0%B8%87%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B9%81%E0%B8%81%E0%B9%89%E0%B8%A7"
+  },
+  {
+    "id": "sv233",
+    "name": "พลเอกอนันตพร กาญจนรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%99%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%9E%E0%B8%A3-%E0%B8%81%E0%B8%B2%E0%B8%8D%E0%B8%88%E0%B8%99%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv234",
+    "name": "นายอนุพร อรุณรัตน์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%9E%E0%B8%A3-%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%93%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B9%8C"
+  },
+  {
+    "id": "sv235",
+    "name": "นายอนุศักดิ์ คงมาลัย",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A8%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%B4%E0%B9%8C-%E0%B8%84%E0%B8%87%E0%B8%A1%E0%B8%B2%E0%B8%A5%E0%B8%B1%E0%B8%A2"
+  },
+  {
+    "id": "sv236",
+    "name": "นายอนุศาสน์ สุวรรณมงคล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%99%E0%B9%8C-%E0%B8%AA%E0%B8%B8%E0%B8%A7%E0%B8%A3%E0%B8%A3%E0%B8%93%E0%B8%A1%E0%B8%87%E0%B8%84%E0%B8%A5"
+  },
+  {
+    "id": "sv237",
+    "name": "นายอนุสิษฐ คุณากร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%99%E0%B8%B8%E0%B8%AA%E0%B8%B4%E0%B8%A9%E0%B8%90-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%B2%E0%B8%81%E0%B8%A3"
+  },
+  {
+    "id": "sv238",
+    "name": "นายอภิชาติ โตดิลกเวชช์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4-%E0%B9%82%E0%B8%95%E0%B8%94%E0%B8%B4%E0%B8%A5%E0%B8%81%E0%B9%80%E0%B8%A7%E0%B8%8A%E0%B8%8A%E0%B9%8C"
+  },
+  {
+    "id": "sv239",
+    "name": "นางอภิรดี ตันตราภรณ์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%A0%E0%B8%B4%E0%B8%A3%E0%B8%94%E0%B8%B5-%E0%B8%95%E0%B8%B1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%A0%E0%B8%A3%E0%B8%93%E0%B9%8C"
+  },
+  {
+    "id": "sv240",
+    "name": "นายอมร นิลเปรม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%A1%E0%B8%A3-%E0%B8%99%E0%B8%B4%E0%B8%A5%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1"
+  },
+  {
+    "id": "sv241",
+    "name": "พล.อ.อ.อลงกรณ์ วัณณรถ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 1,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%A5%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C-%E0%B8%A7%E0%B8%B1%E0%B8%93%E0%B8%93%E0%B8%A3%E0%B8%96"
+  },
+  {
+    "id": "sv242",
+    "name": "นายออน กาจกระโทก",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%AD%E0%B8%99-%E0%B8%81%E0%B8%B2%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%82%E0%B8%97%E0%B8%81"
+  },
+  {
+    "id": "sv243",
+    "name": "พลเอกอักษรา เกิดผล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%A3%E0%B8%B2-%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%9C%E0%B8%A5"
+  },
+  {
+    "id": "sv244",
+    "name": "นายอับดุลฮาลิม มินซาร์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B1%E0%B8%9A%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%AE%E0%B8%B2%E0%B8%A5%E0%B8%B4%E0%B8%A1-%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B2%E0%B8%A3%E0%B9%8C"
+  },
+  {
+    "id": "sv245",
+    "name": "พลเอกอาชาไนย ศรีสุข",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B9%84%E0%B8%99%E0%B8%A2-%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%B8%E0%B8%82"
+  },
+  {
+    "id": "sv246",
+    "name": "พลโทอำพน ชูประทุม",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%99-%E0%B8%8A%E0%B8%B9%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%B8%E0%B8%A1"
+  },
+  {
+    "id": "sv247",
+    "name": "นายอำพล จินดาวัฒนะ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "reference": "https://www.facebook.com/permalink.php?story_fbid=pfbid02hduXLpWjim5e4afPihHQy3Un5LeSMFcUeFeJcRVeL37hDqH8P5wqJDwZYRBJNfYcl&id=1828381393",
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B3%E0%B8%9E%E0%B8%A5-%E0%B8%88%E0%B8%B4%E0%B8%99%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B0"
+  },
+  {
+    "id": "sv248",
+    "name": "พลเรือเอกอิทธิคมน์ ภมรสูต",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%84%E0%B8%A1%E0%B8%99%E0%B9%8C-%E0%B8%A0%E0%B8%A1%E0%B8%A3%E0%B8%AA%E0%B8%B9%E0%B8%95"
+  },
+  {
+    "id": "sv249",
+    "name": "พลเอกอุดมชัย ธรรมสาโรรัชต์",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B8%A2-%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%AA%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%A3%E0%B8%B1%E0%B8%8A%E0%B8%95%E0%B9%8C"
+  },
+  {
+    "id": "sv250",
+    "name": "นายอุดม วรัญญูรัฐ",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B8%E0%B8%94%E0%B8%A1-%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B9%E0%B8%A3%E0%B8%B1%E0%B8%90"
+  },
+  {
+    "id": "sv251",
+    "name": "นายอุปกิต ปาจรียางกูร",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%B4%E0%B8%95-%E0%B8%9B%E0%B8%B2%E0%B8%88%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B9%E0%B8%A3"
+  },
+  {
+    "id": "sv252",
+    "name": "พลเอกอู้ด เบื้องบน",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B8%AD%E0%B8%B9%E0%B9%89%E0%B8%94-%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9A%E0%B8%99"
+  },
+  {
+    "id": "sv253",
+    "name": "พลตรีโอสถ ภาวิไล",
+    "memberType": "SV",
+    "partyName": "",
+    "color": "#560001",
+    "voteType": 0,
+    "bio": "https://theyworkforus.wevis.info/people/%E0%B9%82%E0%B8%AD%E0%B8%AA%E0%B8%96-%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B9%84%E0%B8%A5"
+  }
+]
